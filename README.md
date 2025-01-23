@@ -1,12 +1,12 @@
-# ShitzuFN 🎮
+# ShitzuLauncher 🎮
 
-Bienvenue sur le projet **ShitzuFN** ! 🚀
+Bienvenue sur le projet **ShitzuLauncher** ! 🚀
 
 C'est une application simple et cool en développement, conçue pour faciliter le lancement de jeux à partir d'une interface graphique stylée. 🌟
 
 ## Qu'est-ce que c'est ? 🤔
 
-**ShitzuFN** est une petite application créée en Python avec **Tkinter**, permettant de choisir et de lancer un jeu à partir d'une interface facile à utiliser. 🎮💻
+**ShitzuLauncher** est une petite application créée en Python avec **Tkinter**, permettant de choisir et de lancer un jeu à partir d'une interface facile à utiliser. 🎮💻
 
 ### Fonctionnalités principales :
 - Interface graphique simple et intuitive. 🖥️
